@@ -22,3 +22,4 @@ I'm an aspiring developer passionate about web development and programming. Here
 - Dynamic Company Websites: Developed dynamic websites for several companies to enhance their online presence and functionality using React.js and Tailwind CSS
 
 ## Let's Connect
+I'm always open to connecting with fellow developers and enthusiasts. Let's code and learn together!
