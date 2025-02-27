@@ -1,25 +1,43 @@
 # Hey, I'm Isra!
 
-I'm an aspiring developer passionate about web development and programming. Here, you'll find a collection of my projects and repositories as I learn and grow in the world of coding. I have expertise in HTML and CSS and am actively learning Python, JavaScript, React.js, and integrating Tailwind CSS into my projects.
+# About Me
 
-## About Me
+I'm a **self-taught developer** with hands on experience in building dynamic, user-centric web applications using **JavaScript**, **React.js**, and **Next.js**. Over the past few months, I have built and deployed multiple projects, including a full-stack **Next.js** website and several API based applications. I am committed to refining my skills through **personal projects** and **online courses** and am passionate about modern web development practices.
 
--  Embarking on a journey of coding and continuous learning.
--  Eager to learn and explore new technologies.
--  Experienced in developing dynamic websites for companies.
--  Open to collaboration and mentorship.
+Currently, I am expanding my knowledge in **backend development** with **Node.js** and **Express.js**, and I’m deepening my understanding of testing with **Jest**. I continuously strive to stay up to date with the latest industry trends and best practices, particularly in the areas of **UI/UX** design, **scalable architecture**, and **performance optimization**.
+
+- **Fast Learner & Adaptable**: Continuously learning new technologies and tools to stay ahead in the industry.
+- **Team Collaboration**: I enjoy working with others and thrive in collaborative, fast-paced environments.
+- **Problem-Solving**: I enjoy tackling challenges and finding creative solutions to development problems.
+
+---
 
 ## Tech Stack
 
-- 💻 Languages: Python, JavaScript
-- 🌐 Front-End: HTML, CSS, React.js (with JSX)
-- 🎨 CSS Framework: Tailwind CSS
+- **Frontend**: JavaScript (ES6+), React.js, Next.js
+- **Styling & UI**: Tailwind CSS, Bootstrap
+- **Build Tools**: Webpack, Vite
+- **Backend Basics**: Node.js, Express.js
+- **Testing & Version Control**: Jest, Babel, Git, GitHub
+
+---
 
 ## Projects
 
-- YouTube Clone: A YouTube clone website I built while following an HTML/CSS course by SuperSimpleDev. This project includes a frontend replica of the YouTube interface.
-- Calculator: A responsive calculator application with light and dark themes.
-- Dynamic Company Websites: Developed dynamic websites for several companies to enhance their online presence and functionality using React.js and Tailwind CSS
+### Full-Stack Next.js Website
+- Built and deployed a fully functional **Next.js** website that integrates **React.js** for dynamic rendering and **Node.js** for server-side functionality.
+- Focused on creating a seamless user experience with a clean UI using **Tailwind CSS**.
+
+### API-Based Apps
+- Developed and deployed multiple **API-based applications** that interact with real-time data.
+- Integrated **Express.js** to handle routing and **Node.js** to set up RESTful API endpoints.
+
+### Testing with Jest
+- Leveraged **Jest** to write unit tests for React components, ensuring robust, reliable applications.
+- Gained experience in test-driven development and improving the overall quality of code.
+
+---
 
 ## Let's Connect
-I'm always open to connecting with fellow developers and enthusiasts. Let's code and learn together!
+
+I’m always looking to expand my network, learn from others, and collaborate on exciting projects. Feel free to reach out to me if you want to talk tech, share insights, or collaborate on a project!
