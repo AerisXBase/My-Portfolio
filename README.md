@@ -10,6 +10,9 @@ Currently, I am expanding my expertise in **backend development** with **Node.js
 - **Team Collaboration**: I enjoy collaborating in fast-paced, agile environments using tools like **Git**, **GitHub**, and **CI/CD pipelines**.
 - **Problem-Solving**: I thrive on solving complex technical challenges with thoughtful, scalable solutions.
 
+[Visit my portfolio](https://aerisxbase.vercel.app/)
+
+
 ---
 
 ## 🛠️ Tech Stack
