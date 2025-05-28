@@ -2,42 +2,58 @@
 
 # About Me
 
-I'm a **self-taught developer** with hands on experience in building dynamic, user-centric web applications using **JavaScript**, **React.js**, and **Next.js**. Over the past few months, I have built and deployed multiple projects, including a full-stack **Next.js** website and several API based applications. I am committed to refining my skills through **personal projects** and **online courses** and am passionate about modern web development practices.
+I'm a **self-taught developer** with hands-on experience in building dynamic, user-centric web applications using **JavaScript**, **React.js**, and **Next.js**. Over the past few months, I have built and deployed multiple projects, including full-stack **Next.js** websites and several API-based applications. I’m passionate about modern web development practices and constantly refine my skills through **personal projects**, **online courses**, and community contributions.
 
-Currently, I am expanding my knowledge in **backend development** with **Node.js** and **Express.js**, and I’m deepening my understanding of testing with **Jest**. I continuously strive to stay up to date with the latest industry trends and best practices, particularly in the areas of **UI/UX** design, **scalable architecture**, and **performance optimization**.
+Currently, I am expanding my expertise in **backend development** with **Node.js**, **Express.js**, and **MongoDB**, while also deepening my understanding of testing practices using **Jest**. I’m enthusiastic about **AI integration**, **UI/UX design**, and building scalable and performant web experiences.
 
-- **Fast Learner & Adaptable**: Continuously learning new technologies and tools to stay ahead in the industry.
-- **Team Collaboration**: I enjoy working with others and thrive in collaborative, fast-paced environments.
-- **Problem-Solving**: I enjoy tackling challenges and finding creative solutions to development problems.
-
----
-
-## Tech Stack
-
-- **Frontend**: JavaScript (ES6+), React.js, Next.js
-- **Styling & UI**: Tailwind CSS, Bootstrap
-- **Build Tools**: Webpack, Vite
-- **Backend Basics**: Node.js, Express.js
-- **Testing & Version Control**: Jest, Babel, Git, GitHub
+- **Fast Learner & Adaptable**: Continuously exploring new technologies and tools like **OpenAI**, **Supabase**, and **Edge Functions**.
+- **Team Collaboration**: I enjoy collaborating in fast-paced, agile environments using tools like **Git**, **GitHub**, and **CI/CD pipelines**.
+- **Problem-Solving**: I thrive on solving complex technical challenges with thoughtful, scalable solutions.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Full-Stack Next.js Website
-- Built and deployed a fully functional **Next.js** website that integrates **React.js** for dynamic rendering and **Node.js** for server-side functionality.
-- Focused on creating a seamless user experience with a clean UI using **Tailwind CSS**.
-
-### API-Based Apps
-- Developed and deployed multiple **API-based applications** that interact with real-time data.
-- Integrated **Express.js** to handle routing and **Node.js** to set up RESTful API endpoints.
-
-### Testing with Jest
-- Leveraged **Jest** to write unit tests for React components, ensuring robust, reliable applications.
-- Gained experience in test-driven development and improving the overall quality of code.
+- **Frontend**: JavaScript (ES6+), TypeScript, React.js, Next.js
+- **Styling & UI Libraries**: Tailwind CSS, SCSS/SASS, Bootstrap, **shadcn/ui**, **Aceternity UI**, **Magic UI**
+- **Backend & Databases**: Node.js, Express.js, MongoDB, Supabase
+- **Testing & Tooling**: Jest, Babel, ESLint, Prettier
+- **State Management**: Redux, Zustand
+- **Version Control & Deployment**: Git, GitHub, Vercel, Netlify
+- **Other Tools & Concepts**: AI Integration with OpenAI API, Responsive Design, Web Animations, SSR/ISR, Edge Rendering
 
 ---
 
-## Let's Connect
+## 🚀 Projects
 
-I’m always looking to expand my network, learn from others, and collaborate on exciting projects. Feel free to reach out to me if you want to talk tech, share insights, or collaborate on a project!
+### Full-Stack Next.js Website  
+- Built and deployed a production-ready **Next.js** portfolio site with theme-based background videos and dynamic content.  
+- Integrated **React Parallax Tilt**, reusable UI components via **Aceternity UI**, and advanced transitions for a polished experience.
+
+### API-Based Applications  
+- Developed multiple real-time applications consuming third-party APIs with robust error handling and smooth UX.  
+- Used **Node.js** and **Express.js** for creating custom RESTful API routes.
+
+### Backend & Database Integration  
+- Set up RESTful endpoints with **Express.js** and connected to **MongoDB** and **Supabase** for data persistence.  
+- Implemented user authentication, protected routes, and basic CRUD operations.
+
+### Component Libraries & Design Systems  
+- Leveraged **shadcn/ui**, **Aceternity UI**, and **Magic UI** to build accessible, elegant UI components with customizable theming.  
+- Implemented scalable component-based design systems for consistent, maintainable UIs.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced backend architecture with Node.js & Express.js  
+- Scalable database design with MongoDB & Supabase  
+- Real-time features using WebSockets & Server-Sent Events  
+- Better testing strategies (unit, integration, and E2E)  
+- AI & LLM integration (OpenAI, LangChain, etc.)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to new opportunities, collaborations, or just geeking out over cool tech. Feel free to reach out!
